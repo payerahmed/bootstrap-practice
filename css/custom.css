@@ -1,0 +1,27 @@
+.slide.row {
+  max-height: 480px;
+}
+
+.slide-image {
+  width: 100%;
+  min-height: 640px;
+  height: 100vh;
+  position: relative;
+  top: -25vh;
+}
+
+
+.content-section {
+  padding-top: 100px;
+}
+.img-circle{
+  height: 150px;
+  width: 150px;
+  border-radius: 100%;
+}
+
+.image-section hr {
+  margin-top: 50px;
+  margin-bottom: 50px;
+  border: 1px #bfbfbf solid;
+}
